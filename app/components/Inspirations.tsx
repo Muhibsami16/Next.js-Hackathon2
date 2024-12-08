@@ -79,6 +79,7 @@ const RoomInspiration = () => {
         </div>
       </div>
     </div>
+    
   );
 };
 

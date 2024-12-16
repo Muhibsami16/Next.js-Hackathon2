@@ -16,7 +16,7 @@ const RoomInspiration = () => {
               that inspire you.
             </p>
           </div>
-          <div className="bg-amber-600 p-2 ">
+          <div className="bg-amber-600 p-1 w-52 ">
           <button className="bg-primary text-white px-[36px] py-[12px] font-semibold text-[16px] w-fit">
             Explore More
           </button>
